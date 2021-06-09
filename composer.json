@@ -1,0 +1,10 @@
+{
+    "name": "range/recompile-bootstrap",
+    "authors": [{
+        "name": "Rangel Dheo",
+        "email": "rangeldheo@gmail.com"
+    }],
+    "require": {
+        "twbs/bootstrap": "4.0.0"
+    }
+}
